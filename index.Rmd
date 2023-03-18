@@ -1,5 +1,5 @@
 ---
-title: "My Website"
+title: "Página web de Canek"
 ---
 
-Hola mundo, Esta es mi primera página
+Hola mundo, Esta es mi primera página web.
